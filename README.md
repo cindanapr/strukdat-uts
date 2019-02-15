@@ -1,0 +1,2 @@
+# strukdat-uts
+Kumpulan codingan
